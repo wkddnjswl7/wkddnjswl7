@@ -1,35 +1,74 @@
-
-![header](https://capsule-render.vercel.app/api?type=Venom&color=ffb6c1&height=300&section=header&text=FE%20Developer&desc=✨언지의%20끄적기록✨&fontSize=40&fontAlignY=40&descAlignY=60&textColor=000000)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=ffb6c1&height=300&section=header&text=FE%20Developer&desc=✨언지의%20끄적이는%20기록✨&fontSize=40&fontAlignY=40&descAlignY=60&textColor=000000">
+</div>
 
 <div align="center">
   <h3>ℹ️ About Unji</h3>
-</div>
-
-<div align="center" style="text-decoration: none; color: inherit;">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Blog+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&align=center&titleAlign=center&fontWeight=bold&lineCount=3&theme=catppuccin_latte&bg=%23eff1f5&badge=%23e6e9ef&border=%239ca0b0&titleColor=%23179299&line1=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVmVsb2c8L3RpdGxlPjxwYXRoIGQ9Ik0zIDBDMS4zMzggMCAwIDEuMzM4IDAgM3YxOGMwIDEuNjYyIDEuMzM4IDMgMyAzaDE4YzEuNjYyIDAgMy0xLjMzOCAzLTNWM2MwLTEuNjYyLTEuMzM4LTMtMy0zSDNabTYuODgzIDYuMjVjLjYzIDAgMS4wMDUuMyAxLjEyNS45bDEuNDYzIDguMzAzYy40NjUtLjYxNS44NDYtMS4xMzMgMS4xNDYtMS41NTMuNDY1LS42Ni44OTMtMS40MTggMS4yODMtMi4yNzMuNDA1LS44NTUuNjA4LTEuNjIuNjA4LTIuMjk1IDAtLjQwNS0uMTEzLS43MjctLjMzOC0uOTY3LS4yMS0uMjU1LS42MDgtLjU3Ny0xLjE5My0uOTY3LjYtLjc2NSAxLjM1LTEuMTQ4IDIuMjUtMS4xNDguNDggMCAuODc4LjE0MyAxLjE5My40MjguMzMuMjg1LjQ5NC43MDQuNDk0IDEuMjYgMCAuOTMtLjM5IDIuMDkzLTEuMTcgMy40ODgtLjc2NSAxLjM4LTIuMjQxIDMuNDU3LTQuNDMxIDYuMjMybC0yLjIyNy4xNTYtMS43MTEtOS42MjhoLTIuMjVWNy4yNGMuNi0uMTk1IDEuMzA1LS40MDYgMi4xMTUtLjYzLjgxLS4yNCAxLjM1OC0uMzYgMS42NDMtLjM2WiIvPjwvc3ZnPg%3D%3D%2Cvelog%2C%3B&line2=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTm90aW9uPC90aXRsZT48cGF0aCBkPSJNNC40NTkgNC4yMDhjLjc0Ni42MDYgMS4wMjYuNTYgMi40MjguNDY2bDEzLjIxNS0uNzkzYy4yOCAwIC4wNDctLjI4LS4wNDYtLjMyNkwxNy44NiAxLjk2OGMtLjQyLS4zMjYtLjk4MS0uNy0yLjA1NS0uNjA3TDMuMDEgMi4yOTVjLS40NjYuMDQ2LS41Ni4yOC0uMzc0LjQ2NnptLjc5MyAzLjA4djEzLjkwNGMwIC43NDcuMzczIDEuMDI3IDEuMjE0Ljk4bDE0LjUyMy0uODRjLjg0MS0uMDQ2LjkzNS0uNTYuOTM1LTEuMTY3VjYuMzU0YzAtLjYwNi0uMjMzLS45MzMtLjc0OC0uODg3bC0xNS4xNzcuODg3Yy0uNTYuMDQ3LS43NDcuMzI3LS43NDcuOTMzem0xNC4zMzcuNzQ1Yy4wOTMuNDIgMCAuODQtLjQyLjg4OGwtLjcuMTR2MTAuMjY0Yy0uNjA4LjMyNy0xLjE2OC41MTQtMS42MzUuNTE0LS43NDggMC0uOTM1LS4yMzQtMS40OTUtLjkzM2wtNC41NzctNy4xODZ2Ni45NTJMMTIuMjEgMTlzMCAuODQtMS4xNjguODRsLTMuMjIyLjE4NmMtLjA5My0uMTg2IDAtLjY1My4zMjctLjc0NmwuODQtLjIzM1Y5Ljg1NEw3LjgyMiA5Ljc2Yy0uMDk0LS40Mi4xNC0xLjAyNi43OTMtMS4wNzNsMy40NTYtLjIzMyA0Ljc2NCA3LjI3OXYtNi40NGwtMS4yMTUtLjEzOWMtLjA5My0uNTE0LjI4LS44ODcuNzQ3LS45MzN6TTEuOTM2IDEuMDM1bDEzLjMxLS45OGMxLjYzNC0uMTQgMi4wNTUtLjA0NyAzLjA4Mi43bDQuMjQ5IDIuOTg2Yy43LjUxMy45MzQuNjUzLjkzNCAxLjIxM3YxNi4zNzhjMCAxLjAyNi0uMzczIDEuNjM0LTEuNjggMS43MjZsLTE1LjQ1OC45MzRjLS45OC4wNDctMS40NDgtLjA5My0xLjk2Mi0uNzQ3bC0zLjEyOS00LjA2Yy0uNTYtLjc0Ny0uNzkzLTEuMzA2LS43OTMtMS45NlYyLjY2N2MwLS44MzkuMzc0LTEuNTQgMS40NDctMS42MzJ6Ii8%2BPC9zdmc%2B%2Cnotion%2C%3B&line3=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BR2l0SHViPC90aXRsZT48cGF0aCBkPSJNMTIgLjI5N2MtNi42MyAwLTEyIDUuMzczLTEyIDEyIDAgNS4zMDMgMy40MzggOS44IDguMjA1IDExLjM4NS42LjExMy44Mi0uMjU4LjgyLS41NzcgMC0uMjg1LS4wMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMzAzLS41NC0xLjUyMy4xMDUtMy4xNzYgMCAwIDEuMDA1LS4zMjIgMy4zIDEuMjMuOTYtLjI2NyAxLjk4LS4zOTkgMy0uNDA1IDEuMDIuMDA2IDIuMDQuMTM4IDMgLjQwNSAyLjI4LTEuNTUyIDMuMjg1LTEuMjMgMy4yODUtMS4yMy42NDUgMS42NTMuMjQgMi44NzMuMTIgMy4xNzYuNzY1Ljg0IDEuMjMgMS45MSAxLjIzIDMuMjIgMCA0LjYxLTIuODA1IDUuNjI1LTUuNDc1IDUuOTIuNDIuMzYuODEgMS4wOTYuODEgMi4yMiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSAzLjI4NiAwIC4zMTUuMjEuNjkuODI1LjU3QzIwLjU2NSAyMi4wOTIgMjQgMTcuNTkyIDI0IDEyLjI5N2MwLTYuNjI3LTUuMzczLTEyLTEyLTEyIi8%2BPC9zdmc%2B%2Cgithub%2C%3B" alt="My Blog 👩🏻‍💻" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wkddnjswl7&theme=swift&show_icons=true">
-</div>
-
-<div align="center">
-  <a href="https://velog.io/@frozen_land">
-  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=frozen_land&color=dark">
+  
+  <!-- Velog -->
+  <a href="https://velog.io/frozen_land" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog Badge">
+  </a>
+  <div align="center">
+    <a href="https://velog.io/@frozen_land">
+      <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=frozen_land&color=dark" alt="Velog Stats">
+    </a>
+  </div>
+  <br>
+  <!-- GitHub -->
+  <a href="https://github.com/wkddnjswl7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
+  </a>
+  <div align="center">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=wkddnjswl7&theme=swift&show_icons=true" alt="GitHub Stats">
+  </div>
+  <br>
+  <!-- Notion -->
+  <a href="https://www.notion.so/128a89f23f19801ea372ebf1caeba63c?v=14aa89f23f1980cba0eb000cc5a7588e" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion Badge">
   </a>
 </div>
 
-<!--
-**wkddnjswl7/wkddnjswl7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">🛠️ My Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center">
+      <h4>📚 Frameworks</h4>
+    </td>
+    <td align="center">
+      <h4>💻 IDEs/Editors</h4>
+    </td>
+    <td align="center">
+      <h4>📋 Languages</h4>
+    </td>
+  </tr>
+  
+  <tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"><br>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"><br>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"><br>
+    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+  </td>
+    
+  <td align="center">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"><br>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  </td>
+    
+  <td align="center">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" /><br>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" /><br>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+  </td>
+  </tr>
+</table>
+
