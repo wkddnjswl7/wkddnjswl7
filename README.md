@@ -5,7 +5,6 @@
 
 <div align="center">
   <h3>ℹ️ About Unji</h3>
-
   
   <!-- Velog -->
   <a href="https://velog.io/frozen_land" target="_blank">
