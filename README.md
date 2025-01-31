@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=ffb6c1&height=130&section=header&text=FE%20Developer&desc=✨언지의%20끄적%20기록✨&descSize=25&fontSize=40&fontAlignY=40&descAlignY=60&textColor=000000&animation=blinking">
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=ffb6c1&height=130&section=header&text=FE%20Developer&desc=✨언지의%20끄적%20기록✨&descSize=25&fontSize=40&fontAlignY=45&descAlignY=70&textColor=000000&animation=blinking">
 </div>
 
 <div align="center">
