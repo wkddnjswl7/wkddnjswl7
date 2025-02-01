@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="center">🛠️ My Tech Stack</h3>
+<h4 align="center">🛠️ My Tech Stack</h4>
 
 <table align="center">
   <tr>
